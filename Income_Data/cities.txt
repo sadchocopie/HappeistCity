@@ -1,0 +1,106 @@
+Birmingham, AL
+Montgomery, AL
+Anchorage, AK
+Juneau, AK
+Phoenix, AZ
+Tucson, AZ
+Little Rock, AR
+Fort Smith, AR
+San Diego, CA
+Los Angeles, CA
+Sacramento, CA
+Denver, CO
+Colorado Springs, CO
+Aurora, CO
+Bridgeport, CT
+Hartford, CT
+Dover, DE
+Wilmington, DE
+Jacksonville, FL
+Miami, FL
+Tallahassee, FL
+Atlanta, GA
+Savannah, GA
+Honolulu, HI
+Kauai, HI
+Maui, HI
+Boise, ID
+Meridian, ID
+Chicago, IL
+Springfield, IL
+Fort Wayne, IN
+Indianapolis, IN
+Cedar Rapids, IA
+Des Moines, IA
+Topeka, KS
+Wichita, KS
+Frankfort, KY
+Louisville, KY
+Baton Rouge, LA
+New Orleans, LA
+Augusta, ME
+Portland, ME
+Baltimore, MD
+Annapolis, MD
+Boston, MA
+Worcester, MA
+Detroit, MA
+Lansing, MA
+Minneapolis, MN
+Saint Paul, MN
+Jackson, MS
+Gulfport, MS
+Kansas City, MO
+Jefferson City, MO
+Billings, MT
+Helena, MT
+Lincoln, NE
+Omaha, NE
+Carson City, NV
+Las Vegas, NV
+Reno, NV
+Concord, NH
+Manchester, NH
+Newark, NJ
+Trenton, NJ
+Albuquerque, NM
+Santa Fe, NM
+Albany, NY
+New York City, NY
+Charlotte, NC
+Raleigh, NC
+Bismarck, ND
+Fargo, ND
+Columbus, OH
+Cleveland, OH
+Oklahoma City, OK
+Tulsa, OK
+Portland, OR
+Salem, OR
+Harrisburg, PA
+Philadelphia, PA
+Providence, RI
+Warwick, RI
+Charleston, SC
+Columbia, SC
+Pierre, SD
+Sioux Falls, SD
+Nashville, TN
+Memphis, TN
+Austin, TX
+El Paso, TX
+Houston, TX
+Salt Lake city, UT
+West Valley City, UT
+Burlington, VT
+Montpelier, VT
+Richmond, VA
+Virginia Beach, VA
+Olympia, WA
+Seattle, WA
+Charleston, WV
+Huntington, WV
+Madison, WI
+Milwaukee, WI
+Casper, WY
+Cheyenne, WY
