@@ -1,10 +1,12 @@
+Group repository for final project for COGS108 Winter Quarter.
+---------------
 
-This is your group repository for your final project for COGS108. This repostory is private, including to other students in the class, but visible to all COGS108 instructors.
+# Happiest City
 
-We have uploaded your Project Proposal here, and will provide comments and feedback on it here, as an issue. In the meantime, you are welcome and encouraged to use this repository to get started working on your project. 
+Research Question
+Is it possible to predict the happiest city in the United States? If so, which city is it and what makes it the happiest?
 
-This repository will be frozen on the due date - at 11:59pm on Thursday, March 22nd, 2018.
+Hypothesis
+The happiest city in the United States will have most of the population with a roof over their heads, a stable job, a low crime rate, and good traffic conditions. We predict that the cities with a good employment rate will see it increase over upcoming years and eventually help residents buy houses and other commodities, reducing the need to commit crimes. This would eventually result in the happiest city in the United States.
 
-Make sure you have a notebook called 'FinalProject.ipynb' present in this repository by the due date. 
-
-Your final project will be graded based solely on that project notebook - make sure it has everything included and displayed (with code outputs) to evaluate your project. 
+Result: head to the finalproject notebook and see for yourself!  
